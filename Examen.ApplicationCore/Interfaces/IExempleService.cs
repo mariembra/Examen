@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Examen.ApplicationCore.Interfaces
 {
-    public interface IFournisseurService:IService<Fournissuer>
+    public interface IExempleService:IService<Exemple>
     {
         //signature des méthodes
         List<Fournissuer> getfournissuersbycategorie(int categorieId);

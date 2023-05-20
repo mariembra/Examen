@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k7jULA2EUvCpcKhP0SCnZvGzboqi0LmXjlfVdx05sjNFzjGDZPjRKZ+AACT0cx6h7rxCW5fEKXEY/gt2uIrnYw==",
+  "dgSpecHash": "NwmRRAfuhDkWChUld58v4uTrzHUADMIcShucXaAH6iXoYp3Yh/oEOS2VuY2rGaH2a5ZJRHg/gD9iiJDwwUNrVw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+  "projectFilePath": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Web\\Examen.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mariem Bransi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Mariem Bransi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

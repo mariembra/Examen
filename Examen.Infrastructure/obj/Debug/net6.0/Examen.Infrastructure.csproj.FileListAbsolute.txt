@@ -32,3 +32,20 @@ D:\esprit\Net\test\Examen-Nom-Prenom\Examen.Infrastructure\obj\Debug\net6.0\refi
 D:\esprit\Net\test\Examen-Nom-Prenom\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.pdb
 D:\esprit\Net\test\Examen-Nom-Prenom\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.genruntimeconfig.cache
 D:\esprit\Net\test\Examen-Nom-Prenom\Examen.Infrastructure\obj\Debug\net6.0\ref\Examen.Infrastructure.dll
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.Infrastructure.deps.json
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.Infrastructure.dll
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.Infrastructure.pdb
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.ApplicationCore.dll
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\bin\Debug\net6.0\Examen.ApplicationCore.pdb
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.csproj.CopyComplete
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.dll
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\refint\Examen.Infrastructure.dll
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.pdb
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\Mariem Bransi\Desktop\Examen_MariemBransi\Examen\Examen.Infrastructure\obj\Debug\net6.0\ref\Examen.Infrastructure.dll

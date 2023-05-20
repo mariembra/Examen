@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Examen.ApplicationCore.Interfaces
 {
-    public interface IExempleService:IService<Exemple>
+    public interface IFournisseurService:IService<Fournissuer>
     {
         //signature des méthodes
     }

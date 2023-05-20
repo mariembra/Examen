@@ -24,9 +24,6 @@ namespace Examen.ApplicationCore.Services
             return null;
         }
 
-        List<Fournissuer> IFournisseurService.getfournissuersbycategorie(int categorieId)
-        {
-            throw null;
-        }
+      
     }
 }

@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 
 namespace Examen.Infrastructure.Configurations
 {
-    public class ExempleConfiguration : IEntityTypeConfiguration<Exemple>
+    public class ExempleConfiguration : IEntityTypeConfiguration<Fournissuer>
     {
-        public void Configure(EntityTypeBuilder<Exemple> builder)
+        public void Configure(EntityTypeBuilder<Fournissuer> builder)
         {
             // builder.
             //.............

@@ -12,7 +12,7 @@ namespace Examen.Infrastructure
     public class ExamContext:DbContext
     {
         //les dbsets
-        public DbSet<Exemple> Exemples { get; set; }
+        public DbSet<Fournissuer> Exemples { get; set; }
         public DbSet<Produit> Produits { get; set; }
         public DbSet<Fournissuer> Fournissuers { get; set; }
         public DbSet<Chimique> Chimiques { get; set; }

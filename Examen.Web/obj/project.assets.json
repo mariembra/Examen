@@ -10571,11 +10571,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+      "projectUniqueName": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Web\\Examen.Web.csproj",
       "projectName": "Examen.Web",
-      "projectPath": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Web\\Examen.Web.csproj",
+      "projectPath": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Web\\Examen.Web.csproj",
       "packagesPath": "C:\\Users\\Mariem Bransi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Web\\obj\\",
+      "outputPath": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mariem Bransi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10592,11 +10592,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
-              "projectPath": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
+            "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj": {
+              "projectPath": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.ApplicationCore\\Examen.ApplicationCore.csproj"
             },
-            "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Mariem Bransi\\Downloads\\ExamenMariemBransi\\Examen-Nom-Prenom\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
+            "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Mariem Bransi\\Desktop\\Examen_MariemBransi\\Examen\\Examen.Infrastructure\\Examen.Infrastructure.csproj"
             }
           }
         }

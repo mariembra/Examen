@@ -15,6 +15,11 @@ namespace Examen.ApplicationCore.Services
         public ExempleService(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
         }
+
+        List<Fournissuer> IExempleService.getfournissuersbycategorie(int categorieId)
+        {
+            throw new NotImplementedException();
+        }
         //implémentation des méthodes
     }
 }
